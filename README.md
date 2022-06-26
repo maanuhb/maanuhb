@@ -11,3 +11,19 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/manuel-hernández-158619200/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>  
 <p/>
+
+
+
+- 📫 How to reach me **maanu.jhb@gmail.com**
+
+- ⚡ Fun fact **I think I am funny HAHA**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanuhb&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maanuhb&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+
+
+
+
+

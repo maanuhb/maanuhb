@@ -1,5 +1,8 @@
+![image](https://user-images.githubusercontent.com/54414739/175803796-40966baa-2536-456b-a6d8-798e692b559a.png)
+
+
 <!-- welcome message -->  
-<h2>Hello!! :D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hello!! :D </h2>
 
 <h3>Glad to see you here!</h3>  
 

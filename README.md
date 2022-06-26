@@ -1,4 +1,9 @@
-![image](https://user-images.githubusercontent.com/54414739/175803796-40966baa-2536-456b-a6d8-798e692b559a.png)
+![image](https://user-images.githubusercontent.com/54414739/175804385-5a41a20c-caf3-4887-9d23-b38505a7b870.png)
+
+<!-- retro visitor counter -->  
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/{maanuhb}/count.svg" />  
+</p>  
 
 
 <!-- welcome message -->  
@@ -16,14 +21,11 @@
 
 - 📫 How to reach me **maanu.jhb@gmail.com**
 
-- ⚡ Fun fact **I think I am funny HAHA**
+- ⚡ Fun fact **I'm the 7th son in my family HAHA**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanuhb&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanuhb&show_icons=true&locale=en&layout=compact&theme=radical" alt="MaanuhbTopLanguages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maanuhb&show_icons=true&locale=en" alt="khushboogoel01" /></p>
-
-
-
+![Maanuhb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maanuhb&show_icons=true&theme=radical)
 
 
